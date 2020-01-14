@@ -14,8 +14,8 @@
 }
 .profile_pic{
     border-radius: 50%;
-    height: 200px;
-    width: 200px;
+    height: 150px;
+    width: 150px;
     align-self: center ;
     box-shadow:#0a8268 2px 5px 5px;
 }
